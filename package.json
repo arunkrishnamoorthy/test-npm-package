@@ -1,13 +1,13 @@
 {
-  "name": "@devforcetech/testpackage",
-  "version": "0,0,1",
+  "name": "arunmba.rec-aktestpackage",
+  "version": "0.0.2",
   "description": "Devforce Test Package development",
-  "main": "/dist/index.js",
+  "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
   "homepage": "https://demos.devforce.com",
   "repository": {
-    "url": ""
+    "url": "https://github.com/arunkrishnamoorthy/test-npm-package.git"
   },
   "scripts": {
     "build": "tsup",
